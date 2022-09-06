@@ -49,23 +49,23 @@
         - "Cours de préparation à l'agrégation de lettres sur l'<i>Histoire d'un voyage faict en la terre du Brésil</i> de Jean de Léry"
         - "Cours de préparation au CAPES de lettres sur l'<i>Histoire d'un voyage faict en la terre du Brésil</i> de Jean de Léry"
         - "CM de Littérature du XVIe siècle (L3)"
-	- "TD de Culture biblique et scientifique (L3 Humanités)"
-	- "TD de Littérature du XVIe siècle (L3)"
-	  contents:
-	    - "<i>Les Essais</i> (livre I) de Montaigne"
-	- "TD de Littérature du XVIe siècle (L2)"
-	  contents:
-	    - "<i>Histoire d'un voyage faict en la terre du Brésil</i> de Jean de Léry"
-	- "TD de Littérature du Moyen Âge et du XVIe siècle (L2 Humanités)"
+        - "TD de Culture biblique et scientifique (L3 Humanités)"
+        - title: "TD de Littérature du XVIe siècle (L3)"
+          contents:
+            - "<i>Les Essais</i> (livre I) de Montaigne"
+        - title: "TD de Littérature du XVIe siècle (L2)"
+          contents:
+            - "<i>Histoire d'un voyage faict en la terre du Brésil</i> de Jean de Léry"
+        - title: "TD de Littérature du Moyen Âge et du XVIe siècle (L2 Humanités)"
           contents:
             - "<i>Le Roman d'Enéas</i>"
             - "<i>Les Regrets</i> de Du Bellay"
-	- "TD de Littérature du Moyen Âge (L2)"
-	- "TD d'Expression écrite et orale (L1)"
-	- "TD d'Approche des genres narratifs (L1)"
-	  contents:
-	    - "<i>Le Quart Livre</i> de Rabelais"
-	    - "<i>Les Travailleurs de la mer</i> de Hugo"
+        - "TD de Littérature du Moyen Âge (L2)"
+        - "TD d'Expression écrite et orale (L1)"
+        - title: "TD d'Approche des genres narratifs (L1)"
+          contents:
+            - "<i>Le Quart Livre</i> de Rabelais"
+            - "<i>Les Travailleurs de la mer</i> de Hugo"
     - title: Visiting Professor
       institution: California Institute of Technology, Pasadena, California, US
       year: 1933

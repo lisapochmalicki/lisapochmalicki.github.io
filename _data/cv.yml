@@ -17,7 +17,7 @@
       description:
         - "<b>Titre de la thèse :</b> Marco Polo, auteur de la Renaissance. Circulation et autorité du <i>Devisement du monde</i>"
         - "<b>Directeur de thèse :</b> Frank Lestringant"
-        - "<b>Thèse soutenue le 28 juin 2022. Composition du jury :</b> Marie-Christine Gomez-Géraud (rapporteurs), Anne-Pascale Pouey-Mounou, Christine Gadrat-Ouerfelli, Jean-Marc Besse (président du jury), Frédéric Tinguely (rapporteur) et Frank Lestringant (directeur)"
+        - "<b>Thèse soutenue le 28 juin 2022. Composition du jury :</b> Marie-Christine Gomez-Géraud (rapporteure), Anne-Pascale Pouey-Mounou, Christine Gadrat-Ouerfelli, Jean-Marc Besse (président du jury), Frédéric Tinguely (rapporteur) et Frank Lestringant (directeur)"
     - title: Agrégation de Lettres modernes
       year: 2015
     - title: Master 2 en Littératures françaises ("De la Renaissance aux Lumières")
@@ -42,16 +42,30 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: ATER en Littérature française
+      institution: Université de Strasbourg
+      year: 2021 - 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - "Cours de préparation à l'agrégation de lettres sur l'<i>Histoire d'un voyage faict en la terre du Brésil</i> de Jean de Léry"
+        - "Cours de préparation au CAPES de lettres sur l'<i>Histoire d'un voyage faict en la terre du Brésil</i> de Jean de Léry"
+        - "CM de Littérature du XVIe siècle (L3)"
+	- "TD de Culture biblique et scientifique (L3 Humanités)"
+	- "TD de Littérature du XVIe siècle (L3)"
+	  contents:
+	    - "<i>Les Essais</i> (livre I) de Montaigne"
+	- "TD de Littérature du XVIe siècle (L2)"
+	  contents:
+	    - "<i>Histoire d'un voyage faict en la terre du Brésil</i> de Jean de Léry"
+	- "TD de Littérature du Moyen Âge et du XVIe siècle (L2 Humanités)"
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
+            - "<i>Le Roman d'Enéas</i>"
+            - "<i>Les Regrets</i> de Du Bellay"
+	- "TD de Littérature du Moyen Âge (L2)"
+	- "TD d'Expression écrite et orale (L1)"
+	- "TD d'Approche des genres narratifs (L1)"
+	  contents:
+	    - "<i>Le Quart Livre</i> de Rabelais"
+	    - "<i>Les Travailleurs de la mer</i> de Hugo
     - title: Visiting Professor
       institution: California Institute of Technology, Pasadena, California, US
       year: 1933

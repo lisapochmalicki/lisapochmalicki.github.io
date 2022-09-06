@@ -15,26 +15,26 @@
       institution: Sorbonne Université
       year: 2022
       description:
-        - Titre de la thèse : Marco Polo, auteur de la Renaissance. Circulation et autorité du _Devisement du monde_
-        - Directeur de thèse : Frank Lestringant
-        - Thèse soutenue le 28 juin 2022. Composition du jury : Marie-Christine Gomez-Géraud (rapporteurs), Anne-Pascale Pouey-Mounou, Christine Gadrat-Ouerfelli, Jean-Marc Besse (président du jury), Frédéric Tinguely (rapporteur) et Frank Lestringant (directeur)
+        - "<b>Titre de la thèse :</b> Marco Polo, auteur de la Renaissance. Circulation et autorité du <i>Devisement du monde</i>"
+        - "<b>Directeur de thèse :</b> Frank Lestringant"
+        - "<b>Thèse soutenue le 28 juin 2022. Composition du jury :</b> Marie-Christine Gomez-Géraud (rapporteurs), Anne-Pascale Pouey-Mounou, Christine Gadrat-Ouerfelli, Jean-Marc Besse (président du jury), Frédéric Tinguely (rapporteur) et Frank Lestringant (directeur)"
     - title: Agrégation de Lettres modernes
       year: 2015
     - title: Master 2 en Littératures françaises ("De la Renaissance aux Lumières")
       institution: Sorbonne Université
       year: 2014
       description:
-        - Mémoire sous la direction de Frank Lestringant : édition critique du _Voyage de Paris en Constantinople_ de Jean Chesneau (1546-1555)
+        - "<b>Mémoire sous la direction de Frank Lestringant :</b> édition critique du <i>Voyage de Paris en Constantinople</i> de Jean Chesneau (1546-1555)"
     - title: Master of Studies in Medieval and Modern Languages
       institution: University of Oxford
       year: 2013
       description:
-        - Mémoire sous la direction de Wes Williams : "Mettre en page le Levant”: Illustration and Illusion in French Sixteenth-Century Travel Writing
+        - "<b>Mémoire sous la direction de Wes Williams :</b> \"Mettre en page le Levant\": Illustration and Illusion in French Sixteenth-Century Travel Writing"
     - title: Master 1 en Littératures françaises
       institution: Sorbonne Université
       year: 2012
       description:
-        - Mémoire sous la direction de Frank Lestringant : édition critique de la première partie du _Voyage de Paris en Constantinople_ de Jean Chesneau (1546-1555)
+        - "<b>Mémoire sous la direction de Frank Lestringant :</b> édition critique de la première partie du <i>Voyage de Paris en Constantinople</i> de Jean Chesneau (1546-1555)"
     - title: CPGE littéraire
       institution: Lycée Henri IV (Paris)
       year: 2008-2011
@@ -83,18 +83,18 @@
   type: time_table
   contents:
     - year: 1921
-      items: 
-        - Nobel Prize in Physics 
+      items:
+        - Nobel Prize in Physics
         - Matteucci Medal
     - year: 2029
-      items: 
+      items:
         - Max Planck Medal
 
 - title: Academic Interests
   type: nested_list
   contents:
     - title: Topic 1.
-      items: 
+      items:
         - Description 1.
         - Description 2.
     - title: Topic 2.

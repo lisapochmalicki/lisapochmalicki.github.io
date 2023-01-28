@@ -5,6 +5,8 @@ date: 2022-11-25 15:59:00-0400
 inline: false
 ---
 
-Le dernier numéro [Verger] (http://cornucopia16.com/blog/series/le-verger-bouquet-xxv/) vient de paraître. Dirigé par Augustin Lesage et Lisa Pochmalicki, il est consacré à l'_Histoire d'un voyage faict en la terre du Bresil_ de Jean de Léry au programme des agrégations de Lettres en 2023.
+![Digital Philology](https://muse.jhu.edu/issue/49137/image/front_cover.jpg) "Digital Philology").
+
+Le dernier numéro de [Digital Philology] (https://muse.jhu.edu/issue/49137) dirigé par Mark Cruse est consacré aux réceptions médiévale et renaissante du _Devisement du monde_ de Marco Polo.
 
 [Introduction] (http://cornucopia16.com/?p=11156) d'Augustin Lesage et Lisa Pochmalicki

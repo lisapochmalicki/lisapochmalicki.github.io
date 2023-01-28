@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Le Verger, Bouquet XXV, Jean de Léry
-date: 2023-01-28 16:11:00-0400
+date: 2023-01-27 16:11:00-0400
 inline: false
 ---
 

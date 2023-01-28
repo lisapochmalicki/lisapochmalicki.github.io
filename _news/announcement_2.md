@@ -19,3 +19,14 @@ Le dernier numéro [Verger](http://cornucopia16.com/blog/2023/01/06/bouquet-xxv-
 **Marie-Christine Gomez-Géraud** : [Sentir le monde. Jean de Léry : une nouvelle manière d'écrire le voyage](http://cornucopia16.com/blog/2022/12/13/marie-christine-gomez-geraud-sentir-le-monde-jean-de-lery-une-nouvelle-maniere-decrire-le-voyage/).
 
 **Louise Millon-Hazo** : [Couleurs de l'_Histoire d'un voyage faict en la terre du Bresil_. L'écriture iconographique de Léry](http://cornucopia16.com/blog/2022/12/13/louise-millon-hazo-couleurs-de-lhistoire-dun-voyage-faict-en-la-terre-du-bresil-lecriture-iconographique-de-lery/).
+
+**Paul J. Smith** : [Léry et les poissons. Une lecture rapprochée des stratégies descriptives](http://cornucopia16.com/blog/2022/12/13/paul-j-smith-lery-et-les-poissons-une-lecture-rapprochee-des-strategies-descriptives/).
+
+**Phillip John Usher** : ["Ce qu'on dit en somme avoir ame vegetative". La flore brésilienne selon Jean de Léry](http://cornucopia16.com/blog/2022/12/13/phillip-j-usher-ce-quon-dit-en-somme-avoir-ame-vegetative-la-flore-bresilienne-selon-jean-de-lery/).
+
+**Myriam Marrache-Gouraud** : [Retour à la ligne. Léry, l'écriture et l'Équateur](http://cornucopia16.com/blog/2023/01/01/myriam-marrache-gouraud-retour-a-la-ligne-lery-lecriture-et-lequateur/) (à venir).
+
+
+**Appréhender les Tupinamba**
+
+**

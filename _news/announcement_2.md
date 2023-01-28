@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Parution : Le Verger, Bouquet XXV - Jean de Léry
+title: Le Verger, Bouquet XXV, Jean de Léry
 date: 2015-11-07 16:11:00-0400
 inline: false
 ---

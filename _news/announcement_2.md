@@ -31,4 +31,8 @@ Le dernier numéro [Verger](http://cornucopia16.com/blog/2023/01/06/bouquet-xxv-
 
 **Appréhender les Tupinamba**
 
-**
+**Pierre Martin** : [Au péril de Circé : Jean de Léry et la pulsion cannibale](http://cornucopia16.com/blog/2022/12/21/pierre-martin-au-peril-de-circe-jean-de-lery-et-la-pulsion-cannibale/).
+
+**Carine Roudière-Sébastien** : [1557-1578 : palimpsestes de la question cannibale chez Léry](http://cornucopia16.com/blog/2022/12/21/carine-roudiere-sebastien-1557-1578-palimpsestes-de-la-question-cannibale-chez-lery/).
+
+**Mathilde Mougin** : [Léry et la pensée mythique : une difficile rencontre de l'Autre dans l'

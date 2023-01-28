@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Lisa Pochmalicki est ATER en littérature française à l'Université de Strasbourg. Elle est rattachée au [CELAR](https://ea1337.unistra.fr/celar/) et membre associée du [CELLF](https://cellf.cnrs.fr).
+Lisa Pochmalicki est ATER en littérature française à l'Université de Strasbourg. Elle est rattachée au [CELAR](https://ea1337.unistra.fr/celar/) et membre associé du [CELLF](https://cellf.cnrs.fr).
 
 Agrégée de lettres modernes, elle a fait son doctorat sous la direction de Frank Lestringant à Sorbonne Université. En juin 2022, elle a soutenu sa thèse intitulée "Marco Polo, auteur de la Renaissance. Circulation et autorité du _Devisement du monde_".
 

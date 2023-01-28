@@ -13,6 +13,7 @@ Le dernier numéro [Verger](http://cornucopia16.com/blog/2023/01/06/bouquet-xxv-
 
 **Frank Lestringant** : [Topo topi. Note transversale sur l'_Histoire d'un voyage faict en la terre du Bresil_ de Jean de Léry](http://cornucopia16.com/?p=11160).
 
+***
 
 **Dépeindre les réalités sensibles**
 
@@ -26,6 +27,7 @@ Le dernier numéro [Verger](http://cornucopia16.com/blog/2023/01/06/bouquet-xxv-
 
 **Myriam Marrache-Gouraud** : [Retour à la ligne. Léry, l'écriture et l'Équateur](http://cornucopia16.com/blog/2023/01/01/myriam-marrache-gouraud-retour-a-la-ligne-lery-lecriture-et-lequateur/) (à venir).
 
+***
 
 **Appréhender les Tupinamba**
 

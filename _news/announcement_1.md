@@ -7,7 +7,7 @@ inline: false
 
 ![Digital Philology](https://muse.jhu.edu/issue/49137/image/front_cover.jpg).
 
-Le dernier numéro de [Digital Philology](https://muse.jhu.edu/issue/49137) dirigé par Mark Cruse est consacré aux réceptions médiévales et renaissantes du _Devisement du monde_ de Marco Polo. Il réunit des contributions de Mario Klarer, Hubert Alisade, Christine Gadrat-Ouerfelli, Mark Cruse, Lisa Pochmalicki et différents comptes rendus.
+Le dernier numéro de [Digital Philology](https://muse.jhu.edu/issue/49137) dirigé par Mark Cruse est consacré aux réceptions médiévales et renaissantes du _Devisement du monde_ de Marco Polo. Il réunit des contributions de Mario Klarer, Hubert Alisade, Christine Gadrat-Ouerfelli, Mark Cruse et Lisa Pochmalicki, ainsi que différents comptes rendus.
 
 Mon article ["Marco Polo in the _Novus Orbis_"](https://muse.jhu.edu/pub/1/article/869785) s'intéresse à la circulation de la version latine du _Devisement du monde_ imprimée dans le recueil de Simon Grynaeus et Johann Huttich (1532) dans la littérature française de la Renaissance.
 

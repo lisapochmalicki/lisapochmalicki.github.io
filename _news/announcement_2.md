@@ -12,3 +12,10 @@ Le dernier numéro [Verger](http://cornucopia16.com/blog/2023/01/06/bouquet-xxv-
 [Introduction](http://cornucopia16.com/?p=11156) d'**Augustin Lesage** et **Lisa Pochmalicki**.
 
 **Frank Lestringant** : [Topo topi. Note transversale sur l'_Histoire d'un voyage faict en la terre du Bresil_ de Jean de Léry](http://cornucopia16.com/?p=11160).
+
+
+**Dépeindre les réalités sensibles**
+
+**Marie-Christine Gomez-Géraud** : [Sentir le monde. Jean de Léry : une nouvelle manière d'écrire le voyage](http://cornucopia16.com/blog/2022/12/13/marie-christine-gomez-geraud-sentir-le-monde-jean-de-lery-une-nouvelle-maniere-decrire-le-voyage/).
+
+**Louise Millon-Hazo** : [Couleurs de l'_Histoire d'un voyage faict en la terre du Bresil_. L'écriture iconographique de Léry](http://cornucopia16.com/blog/2022/12/13/louise-millon-hazo-couleurs-de-lhistoire-dun-voyage-faict-en-la-terre-du-bresil-lecriture-iconographique-de-lery/).

@@ -35,4 +35,8 @@ Le dernier numéro [Verger](http://cornucopia16.com/blog/2023/01/06/bouquet-xxv-
 
 **Carine Roudière-Sébastien** : [1557-1578 : palimpsestes de la question cannibale chez Léry](http://cornucopia16.com/blog/2022/12/21/carine-roudiere-sebastien-1557-1578-palimpsestes-de-la-question-cannibale-chez-lery/).
 
-**Mathilde Mougin** : [Léry et la pensée mythique : une difficile rencontre de l'Autre dans l'
+**Mathilde Mougin** : [Léry et la pensée mythique : une difficile rencontre de l'Autre dans l'_Histoire d'un voyage faict en la terre du Bresil_ (1578)](http://cornucopia16.com/blog/2022/12/21/mathilde-mougin-lery-et-la-pensee-mythique-une-difficile-rencontre-de-lautre-dans-lhistoire-dun-voyage-faict-en-la-terre-du-bresil-1578/).
+
+**Raffaele Carbone** : [Les intermittences du religieux chez les peuples amérindiens dans l'_Histoire d'un voyage faict en la terre du Bresil_](http://cornucopia16.com/blog/2023/01/06/raffaele-carbone-les-intermittences-du-religieux-chez-les-peuples-amerindiens-dans-lhistoire-dun-voyage-faict-en-la-terre-du-bresil/).
+
+**Caroline Trotot** : [Jean de Léry et le paradigme de la représentation tragique de l’_Histoire mémorable de Sancerre_ à l’_Histoire d’un voyage en terre de Bresil_](http://cornucopia16.com/blog/2023/01/05/caroline-trotot-jean-de-lery-et-le-paradigme-de-la-representation-tragique-de-lhistoire-memorable-de-sancerre-a-lhistoire-dun-voyage-en-terre-de-bresil/).

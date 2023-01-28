@@ -9,4 +9,4 @@ Le dernier numéro [Verger](http://cornucopia16.com/blog/series/le-verger-bouque
 
 ***
 
-[Introduction](http://cornucopia16.com/?p=11156) d'**Augustin Lesage** et **Lisa Pochmalicki**.
+[Introduction](http://cornucopia16.com/?p=11156) d'Augustin Lesage et Lisa Pochmalicki.

@@ -2,7 +2,7 @@
 layout: post
 title: Parution : Le Verger, Bouquet XXV - Jean de Léry
 date: 2023-01-06 15:59:00-0400
-inline: false
+inline: true
 ---
 
 Le dernier numéro [Verger] (http://cornucopia16.com/blog/series/le-verger-bouquet-xxv/) vient de paraître. Dirigé par Augustin Lesage et Lisa Pochmalicki, il est consacré à l'_Histoire d'un voyage faict en la terre du Bresil_ de Jean de Léry au programme des agrégations de Lettres en 2023.

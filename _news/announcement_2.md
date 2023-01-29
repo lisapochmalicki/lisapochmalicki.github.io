@@ -13,7 +13,7 @@ Le dernier numéro du [Verger](http://cornucopia16.com/blog/2023/01/06/bouquet-x
 
 [Introduction](http://cornucopia16.com/?p=11156) d'Augustin Lesage et Lisa Pochmalicki.
 
-Frank Lestringant : [Topo topi. Note transversale sur l'*Histoire d'un voyage faict en la terre du Bresil* de Jean de Léry](http://cornucopia16.com/?p=11160).
+Frank Lestringant : [Topo tupi. Note transversale sur l'*Histoire d'un voyage faict en la terre du Bresil* de Jean de Léry](http://cornucopia16.com/?p=11160).
 
 ***
 

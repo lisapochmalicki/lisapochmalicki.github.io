@@ -27,7 +27,7 @@ Paul J. Smith : [Léry et les poissons. Une lecture rapprochée des stratégies
 
 Phillip John Usher : ["Ce qu'on dit en somme avoir ame vegetative". La flore brésilienne selon Jean de Léry](http://cornucopia16.com/blog/2022/12/13/phillip-j-usher-ce-quon-dit-en-somme-avoir-ame-vegetative-la-flore-bresilienne-selon-jean-de-lery/).
 
-Myriam Marrache-Gouraud : [Retour à la ligne. Léry, l'écriture et l'Équateur](http://cornucopia16.com/blog/2023/01/01/myriam-marrache-gouraud-retour-a-la-ligne-lery-lecriture-et-lequateur/) (à venir).
+Myriam Marrache-Gouraud : [Retour à la ligne. Léry, l'écriture et l'Équateur](http://cornucopia16.com/blog/2023/01/01/myriam-marrache-gouraud-retour-a-la-ligne-lery-lecriture-et-lequateur/).
 
 ***
 

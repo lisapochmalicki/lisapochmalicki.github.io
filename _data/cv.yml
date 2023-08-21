@@ -42,15 +42,19 @@
 - title: Experience
   type: time_table
   contents:
-    - title: ATER en Littérature française
+      - title: Professeure agrégée de lettres modernes
+      institution: Académie de Créteil
+      year: 2023 - 2024
+
+    - title: ATER en littérature française
       institution: Université de Strasbourg
       year: 2021 - 2023
     
-    - title: Enseignante contractuelle en Littérature française
+    - title: Enseignante contractuelle en littérature française
       institution: Université de Bretagne Occidentale
       year: 2020-2021
 
-    - title: ATER en Littérature française
+    - title: ATER en littérature française
       institution: Sorbonne Université
       year: 2019-2020
 

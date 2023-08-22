@@ -1,35 +1,17 @@
 ---
 layout: post
-title:  a post with github metadata
-date: 2020-09-28 21:01:00
-description: a quick run down on accessing github metadata.
+title:  Journée d'agrégation/CAPES sur Jean de Léry (Bordeaux, octobre 2022)
+date: 2022-10-24 07:59:00
+description: Interventions sur l'_Histoire d'un voyage_ de Jean de Léry
 categories: sample-posts external-services
 ---
 
-A sample blog page that demonstrates the accessing of github meta data.
+![Danseur et sonneur de Maracas](http://cornucopia16.com/wp-content/uploads/2022/12/Illustrations_de_Histoire_dun_voyage_...Léry_Jean_btv1b2000031d_71.jpeg "Danseur et sonneur de Maracas").
 
-## What does Github-MetaData do?
-* Propagates the site.github namespace with repository metadata
-* Setting site variables :
-  * site.title
-  * site.description
-  * site.url
-  * site.baseurl
-* Accessing the metadata - duh.
-* Generating edittable links.
+Voici les liens vers les enregistrements de trois interventions lors de la journée sur l'_Histoire d'un voyage faict en la terre du Bresil_ de Jean de Léry organisée par Violaine Giacomotto-Charra et Alice Vintenon à l'université de Bordeaux en octobre 2022.
 
-## Additional Reading
-* If you're recieving incorrect/missing data, you may need to perform a Github API<a href="https://github.com/jekyll/github-metadata/blob/master/docs/authentication.md"> authentication</a>.
-* Go through this <a href="https://jekyll.github.io/github-metadata/">README</a> for more details on the topic.
-* <a href= "https://github.com/jekyll/github-metadata/blob/master/docs/site.github.md">This page</a> highlights all the feilds you can access with github-metadata.
-<br />
+Dorine Rouiller : [Jean de Léry cosmopolite ?](https://www.youtube.com/watch?v=6Pz-5reMU94)
 
-## Example MetaData
-* Host Name : {{ site.github.hostname }}
-* URL : {{ site.github.url }}
-* BaseURL : {{ site.github.baseurl }}
-* Archived : {{ site.github.archived}}
-* Contributors :
-{% for contributor in site.github.contributors %}
-  * {{ contributor.login }}
-{% endfor %}
+Rebecca Legrand : [Le corps dans l'_Histoire d'un voyage faict en la terre du Bresil_](https://www.youtube.com/watch?v=jS6T_r2PXrw).
+
+Lisa Pochmalicki : ["Un pays incognu à ce grand Ptolomée" : espace et échelle dans l’_Histoire d’un voyage faict en la terre du Bresil_](https://www.youtube.com/watch?v=8H_TKfEUQB0).

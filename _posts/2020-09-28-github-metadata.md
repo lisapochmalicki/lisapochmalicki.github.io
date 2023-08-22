@@ -2,7 +2,8 @@
 layout: post
 title:  Journée d'agrégation/CAPES sur Jean de Léry (Bordeaux, octobre 2022)
 date: 2022-10-24 07:59:00
-description: Interventions sur l'_Histoire d'un voyage_ de Jean de Léry
+description: Interventions sur l'Histoire d'un voyage de Jean de Léry
+inline: false
 ---
 
 ![Danseur et sonneur de Maracas](http://cornucopia16.com/wp-content/uploads/2022/12/Illustrations_de_Histoire_dun_voyage_...Léry_Jean_btv1b2000031d_71.jpeg "Danseur et sonneur de Maracas").

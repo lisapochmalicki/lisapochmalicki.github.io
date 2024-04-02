@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Marc Paul chorographe, mars 2024
-date: 2024-04-02 20:10:00-0400
+date: 2024-03-21 20:10:00-0400
 inline: false
 ---
 
-![Colloque Marco Polo 2024](https://www.crlv.org/sites/default/files/styles/d08_standard/public/2024-02/Marco%20Polo.jpeg?h=7ddaa7c3&itok=xeyK80Yf).
+![Colloque Marco Polo 2024](https://la3m.cnrs.fr/wp-content/uploads/2024/02/Affiche-Marco-Polo-700-ans-1200x1696.jpg "Colloque Marco Polo 2024").
 
 Colloque "Marco Polo : 700 ans de lectures et de représentations", organisé par Christine Gadrat et Sylvie Requemora, 21-23 mars 2024, Aix. 
 

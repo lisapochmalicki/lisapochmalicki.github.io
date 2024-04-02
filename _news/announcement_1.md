@@ -9,7 +9,7 @@ inline: false
 
 Colloque "Marco Polo : 700 ans de lectures et de représentations", organisé par Christine Gadrat et Sylvie Requemora, 21-23 mars 2024, Aix. 
 
-Voici les liens pour retrouver [les différentes interventions du colloque](https://youtu.be/AviQZAQ2i2k?feature=shared) mises en ligne par le CRLV et ma communication intitulée [Marc Paul chorographe : transformations des lieux du _Devisement du monde_ à la Renaissance](https://youtu.be/AviQZAQ2i2k?feature=shared).
+Voici les liens pour retrouver [les différentes interventions du colloque](https://www.crlv.org/actualites/colloque-marco-polo-700-ans-lectures-representations-21-23-mars-2024-aix) mises en ligne par le CRLV et ma communication intitulée [Marc Paul chorographe : transformations des lieux du _Devisement du monde_ à la Renaissance](https://www.youtube.com/watch?v=AviQZAQ2i2k).
 
 
 

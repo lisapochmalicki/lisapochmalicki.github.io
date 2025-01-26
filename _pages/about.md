@@ -21,4 +21,4 @@ Ses recherches portent sur la littérature géographique du XVIe siècle (récit
 
 Depuis plusieurs années, elle participe à l'association [Cornucopia](http://cornucopia16.com) qui rassemble de jeunes chercheurs et chercheuses dont les travaux portent sur le XVIe siècle.
 
-Elle enseigne en tant que professeure agrégée de lettres modernes dans l'académie de Créteil. En parallèle, elle est chargée d'enseignements à l'université Paris Cité.
+Elle enseigne en tant que professeure agrégée de lettres modernes dans l'académie de Créteil. En parallèle, elle est vacataire à l'université Paris Cité.
